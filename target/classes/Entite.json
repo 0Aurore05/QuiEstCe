@@ -1,0 +1,241 @@
+{
+  "0" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-0.png"],
+    "cheveux" : ["noirs", "bouclés"],
+    "yeux" : ["marrons"],
+    "genre" : ["femme"],
+    "accessoires" : ["boucles d'oreilles", "rouge à lèvre"],
+    "expression du visage" : ["négative"]
+  },
+  
+  "1" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-1.png"],
+    "cheveux" : ["chauve", "blancs"],
+    "yeux" : ["gris"],
+    "genre" : ["homme"],
+    "accessoires" : ["lunettes"],
+    "expression du visage" : ["positive"]
+  },
+
+  "2" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-2.png"],
+    "cheveux" : ["blonds","bouclés"],
+    "yeux" : ["marrons"],
+    "genre" : ["homme"],
+    "accessoires" : ["lunettes"],
+    "expression du visage" : ["positive"]
+  },
+
+  "3" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-3.png"],
+    "cheveux" : ["blancs"],
+    "yeux" : ["marrons"],
+    "genre" : ["homme"],
+    "accessoires" : ["lunettes"],
+    "expression du visage" : ["positive"]
+  },
+
+  "4" : {
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-4.png"],
+    "cheveux" : ["blancs", "lisses"],
+    "yeux" : ["marrons"],
+    "genre" : ["homme"],
+    "accessoires" : ["chapeau"],
+    "expression du visage" : ["négative"]
+  },
+
+  "5" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-5.png"],
+    "cheveux" : ["noirs", "bouclés"],
+    "yeux" : ["marrons"],
+    "genre" : ["homme"],
+    "accessoires" : ["barbe"],
+    "expression du visage" : ["positive"]
+  },
+
+  "6" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-6.png"],
+    "cheveux" : ["roux", "lisses"],
+    "yeux" : ["marrons"],
+    "genre" : ["femme"],
+    "accessoires" : ["lunettes","chapeau", "rouge à lèvre"],
+    "expression du visage" : ["positive"]
+  },
+
+  "7" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-7.png"],
+    "cheveux" : ["blonds", "lisses"],
+    "yeux" : ["bleus"],
+    "genre" : ["femme"],
+    "accessoires" : ["couettes", "noeuds"],
+    "expression du visage" : ["positive"]
+  },
+
+  "8" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-8.png"],
+    "cheveux" : ["roux", "lisses"],
+    "yeux" : ["bleus"],
+    "genre" : ["homme"],
+    "accessoires" : ["moustache"],
+    "expression du visage" : ["négative"]
+  },
+
+  "9" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-9.png"],
+    "cheveux" : ["blancs", "lisses"],
+    "yeux" : ["marrons"],
+    "genre" : ["femme"],
+    "accessoires" : ["Aucun"],
+    "expression du visage" : ["positive"]
+  },
+
+  "10" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-10.png"],
+    "cheveux" : ["chauve", "châtains"],
+    "yeux" : ["marrons"],
+    "genre" : ["homme"],
+    "accessoires" : ["barbe", "moustache"],
+    "expression du visage" : ["positive"]
+  },
+
+  "11" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-11.png"],
+    "cheveux" : ["roux", "bouclés"],
+    "yeux" : ["marrons"],
+    "genre" : ["homme"],
+    "accessoires" : ["Aucun"],
+    "expression du visage" : ["positive"]
+  },
+
+  "12" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-12.png"],
+    "cheveux" : ["châtains", "bruns", "bouclés"],
+    "yeux" : ["marrons"],
+    "genre" : ["homme"],
+    "accessoires" : ["moustache"],
+    "expression du visage" : ["positive"]
+  },
+
+  "13" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-13.png"],
+    "cheveux" : ["chauve", "bouclés", "blonds"],
+    "yeux" : ["marrons"],
+    "genre" : ["homme"],
+    "accessoires" : ["Aucun"],
+    "expression du visage" : ["positive"]
+  },
+
+  "14" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-14.png"],
+    "cheveux" : ["blonds"],
+    "yeux" : ["marrons"],
+    "genre" : ["homme"],
+    "accessoires" : ["barbe"],
+    "expression du visage" : ["positive"]
+  },
+
+  "15" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-15.png"],
+    "cheveux" : ["châtains","bruns"],
+    "yeux" : ["marrons"],
+    "genre" : ["homme"],
+    "accessoires" : ["chapeau"],
+    "expression du visage" : ["négative"]
+  },
+
+  "16" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-16.png"],
+    "cheveux" : ["noirs","lisses"],
+    "yeux" : ["marrons"],
+    "genre" : ["homme"],
+    "accessoires" : ["moustache"],
+    "expression du visage" : ["positive"]
+  },
+
+  "17" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-17.png"],
+    "cheveux" : ["noirs","chauve"],
+    "yeux" : ["bleus"],
+    "genre" : ["homme"],
+    "accessoires" : ["lunettes"],
+    "expression du visage" : ["positive"]
+  },
+
+  "18" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-18.png"],
+    "cheveux" : ["châtains","lisses"],
+    "yeux" : ["bleus"],
+    "genre" : ["homme"],
+    "accessoires" : ["Aucun"],
+    "expression du visage" : ["négative"]
+  },
+
+  "19" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-19.png"],
+    "cheveux" : ["blancs","lisses"],
+    "yeux" : ["bleus"],
+    "genre" : ["homme"],
+    "accessoires" : ["Aucun"],
+    "expression du visage" : ["positive"]
+  },
+
+  "20" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-20.png"],
+    "cheveux" : ["châtains","bruns"],
+    "yeux" : ["marrons"],
+    "genre" : ["femme"],
+    "accessoires" : ["chapeau","béret","rouge à lèvre"],
+    "expression du visage" : ["positive"]
+  },
+
+  "21" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-21.png"],
+    "cheveux" : ["chauve","blonds"],
+    "yeux" : ["marrons"],
+    "genre" : ["homme"],
+    "accessoires" : ["barbe"],
+    "expression du visage" : ["positive"]
+  },
+
+  "22" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-22.png"],
+    "cheveux" : ["blonds","lisses"],
+    "yeux" : ["marrons"],
+    "genre" : ["homme"],
+    "accessoires" : ["chapeau","casquette"],
+    "expression du visage" : ["positive"]
+  },
+
+  "23" : {
+
+    "path" : ["file:src/main/resources/img/personnages/imageonline-co-split-image-23.png"],
+    "cheveux" : ["blonds","lisses"],
+    "yeux" : ["marrons"],
+    "genre" : ["homme"],
+    "accessoires" : ["moustache"],
+    "expression du visage" : ["positive"]
+  }
+
+}
